@@ -1,0 +1,4 @@
+- Ứng dụng bao gồm 2 màn:
+- Màn 1 hiển thị danh sách công việc được load từ SQLite thông qua content provider và 1 nút Button thêm công việc(nhấn Button sẽ chuyển sang màn thêm công việc)
+- Màn 2 màn thêm công việc mới với các ô edit text để nhập nội dung công việc. Nút Button thực hiện action lưu công việc vào SQLite và quay lại màn hình 1
+- Sau khi quay lại màn hình 1 dữ liệu mới sẽ dược tự động cập nhật lên danh sách công việc
